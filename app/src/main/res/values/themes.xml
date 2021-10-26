@@ -13,4 +13,11 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <!-- AFTER CREATING THE MAIN ACTIVITY, RETURN HERE TO ADD THE THEMES -->
+
+    <style name="Cell">
+
+    </style>
+
 </resources>
