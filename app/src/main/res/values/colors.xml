@@ -13,8 +13,16 @@
 
     <color name="colourPrimaryDark">#137365</color>
 
-    <color name="colourPrimaryDark">#137365</color>
+    <color name="colourAccent">#94167d</color>
 
-    <color name="colourPrimaryDark">#137365</color>
+    <color name="colourPrimary">#0cb3a3</color>
+
+    <color name="marron">#800000</color>
+
+    <color name="teal">#008000</color>
+
+    <color name="blue">#0000FF</color>
+
+    <color name="navy">#000080</color>
 
 </resources>
